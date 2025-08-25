@@ -1,5 +1,6 @@
 {
   "vegetarian": "Exclude vlees en vis",
+  "non-vegetarian": "Include vlees en vis",
   "vegan": "Exclude vlees, vis, zuivel, ei, honing",
   "halal": "Exclude varkensvlees en alcohol",
   "gluten-free": "Exclude gluten",
