@@ -56,6 +56,13 @@ if st.sidebar.button("Genereer weekmenu"):
                     return False
                 if f == "egg-free" and "contains-egg" in tags:
                     return False
+                if f == "vegetarian" and "vegetarian" not in tags:
+                    return False
+                if f == "vegan" and "vegan" not in tags:
+                    return False
+                if f == "not-vegetarian" and "vegetarian" in tags:
+                    return False
+
             return True
         return df[df["tags"].apply(is_valid)]
 
