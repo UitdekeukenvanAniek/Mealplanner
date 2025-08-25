@@ -1,0 +1,11 @@
+name,ingredients,tags
+Spaghetti Bolognese,"spaghetti, gehakt, tomatensaus, ui, knoflook",['halal']
+Vegetarische Curry,"rijst, kikkererwten, kokosmelk, spinazie, ui","['vegetarian','vegan','halal','gluten-free','lactose-free','egg-free','nut-free']"
+Kip Teriyaki,"kip, sojasaus, rijst, paprika, sesam",['halal']
+Vegan Buddha Bowl,"quinoa, kikkererwten, broccoli, avocado, tahin","['vegetarian','vegan','halal','gluten-free','lactose-free','egg-free']"
+Pizza Margherita,"pizzabodem, tomatensaus, mozzarella, basilicum","['vegetarian','halal']"
+AVG maaltijd,"aardappelen, gehaktbal, sperziebonen, jus","['halal','nut-free']"
+Pad Thai,"rijstnoedels, tofu, ei, taugé, pinda","['vegetarian','halal']"
+Falafel Wrap,"falafel, wrap, hummus, sla, komkommer","['vegetarian','vegan','halal','lactose-free','egg-free']"
+Zalm met groenten,"zalm, broccoli, wortel, aardappelen","['halal','gluten-free','lactose-free','nut-free','egg-free']"
+Hamburger met friet,"hamburger, broodje, friet, sla, tomaat","['halal','nut-free']"
